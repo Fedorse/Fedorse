@@ -16,7 +16,7 @@
 ### Testing Documentation
 
 - [Checklists]()
-- [Test-Suites and Test-Cases]()
+- [Test-Suites and Test-Cases](https://github.com/Fedorse/Test-cases)
 - [Bug-Reports]()
 - [SQL Queries]()
 - [Postman Collections]()
