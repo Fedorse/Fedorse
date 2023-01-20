@@ -19,7 +19,7 @@
 - [Test-Suites and Test-Cases](https://github.com/Fedorse/Test-cases)
 - [Bug-Reports]()
 - [SQL Queries](https://github.com/Fedorse/SQL-Queries)
-- [Postman Collections]()
+- [Postman Collections](https://github.com/Fedorse/Postman)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)]()
