@@ -1,4 +1,4 @@
-## I'm a beginner QA Engineer. 
+## I'm a QA Engineer. 
 ## My CV
 [Link to my CV]()
 
