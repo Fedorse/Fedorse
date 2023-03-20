@@ -22,4 +22,4 @@
 - [Postman Collections](https://github.com/Fedorse/Postman)
 
 ### Follow Me
-[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](t.me/Fedorsemochkin)
+[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](@Fedorsemochkin)
