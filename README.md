@@ -2,7 +2,7 @@
 ## My CV
 [Link to my CV](https://kurgan.hh.ru/applicant/resumes/view?resume=6448300cff0bcb841d0039ed1f517554564956)
 ## My page 
-[Link to my page]{https://fedorse.github.io/my-personal-website/}
+[Link to my page](https://fedorse.github.io/my-personal-website/)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
